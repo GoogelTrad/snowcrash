@@ -1,0 +1,7 @@
+Nous avons cherche un fichier appartenant a l'utilisateur flag00. 
+Ca nous a donne un fichier /usr/sbin/john contenant une string "cdiiddwpgswtgt".
+Apres avoir essayer comme mot de passe on s'est rendu compte que c'etais pas bon, du coup on a pense a l'encryptage.
+Il s'agit d'un ROT13, un Cesar avec un decallage de 13.
+Apres decryptage on obtient la string "nottoohardhere"
+
+Apres on se connecte et on fait le getflag et on a "x24ti5gi3x0ol2eh4esiuxias".
