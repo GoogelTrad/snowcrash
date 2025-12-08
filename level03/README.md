@@ -1,6 +1,6 @@
 Level03
 
-![alt text](image-2.png)
+![alt text](https://github.com/GoogelTrad/snowcrash/blob/3d3641b1ed066aba5fb8eaa10c15bca786eb88cb/level03/image-1.png)
 
 On voit un fichier/executable level03. Il a un bit SUID active (s dans -rwsr-sr-x).
 Ca signifie qu’il utilise les droits de flag03.
@@ -16,4 +16,5 @@ Si on modifie le PATH pour qu’il regarde d'abord dans un dossier où on a cré
 ![alt text](image.png)
 
 token: qi0maab88jeaj46qoumi7maus
+
 
